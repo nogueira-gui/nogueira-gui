@@ -1,4 +1,4 @@
-### Hi there, I'm Guilherme 👋 full stack developer.
+### Hi there, I'm Guilherme 👋 fullstack developer.
 I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/NextJs
 
 <a href="https://github.com/nogueira-gui">
