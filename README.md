@@ -6,10 +6,6 @@ I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/Ne
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira-gui&layout=compact&theme=tokyonight)](https://github.com/nogueira-gui/github-readme-stats)
 
-<h3>🧍 Visits to my profile </h3>
-  <img src="https://profile-counter.glitch.me/cogumm/count.svg" alt="hit counter" align="center">
-
-
 <!--
 **nogueira-gui/nogueira-gui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
