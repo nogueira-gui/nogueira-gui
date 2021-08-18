@@ -1,4 +1,4 @@
-### Hi there, I'm Guilherme 👋 full stack developer. I live in Brazil. 
+### Hi there, I'm Guilherme 👋 full stack developer.
 I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/NextJs
 
 
