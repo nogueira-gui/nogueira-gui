@@ -1,10 +1,6 @@
 ### Hi there, I'm Guilherme 👋 full stack developer.
 I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/NextJs
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogueira-gui&show_icons=true&theme=tokyonight)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira-gui&layout=compact&theme=tokyonight)](https://github.com/nogueira-gui/github-readme-stats)
-
 <a href="https://github.com/nogueira-gui">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nogueira-gui&show_icons=true&theme=tokyonight" style"max-width: 100%;" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira-gui&theme=tokyonight&layout=compact" style"max-width: 100%;" />
@@ -13,7 +9,6 @@ I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/Ne
                                                                                        
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" />
-
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
