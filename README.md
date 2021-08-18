@@ -2,12 +2,12 @@
 I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/NextJs
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogueira-gui&show_icons=true&theme=tokyonight)
-<h3>🧍 Visits to my profile </h3>
-  <img src="https://profile-counter.glitch.me/cogumm/count.svg" alt="hit counter" align="center">
+
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira-gui&layout=compact&theme=tokyonight)](https://github.com/nogueira-gui/github-readme-stats)
 
-
+<h3>🧍 Visits to my profile </h3>
+  <img src="https://profile-counter.glitch.me/cogumm/count.svg" alt="hit counter" align="center">
 
 
 <!--
