@@ -6,7 +6,7 @@ I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/Ne
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira-gui&layout=compact&theme=tokyonight)](https://github.com/nogueira-gui/github-readme-stats)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-<img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" />
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
