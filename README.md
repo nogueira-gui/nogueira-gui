@@ -3,7 +3,7 @@ I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/Ne
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogueira-gui&show_icons=true&theme=tokyonight)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira-gui&layout=compact)](https://github.com/nogueira-gui/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira-gui&layout=compact&theme=tokyonight)](https://github.com/nogueira-gui/github-readme-stats)
 
 
 
