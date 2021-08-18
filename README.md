@@ -4,6 +4,7 @@ I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/Ne
 <a href="https://github.com/nogueira-gui">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nogueira-gui&show_icons=true&theme=tokyonight" style"max-width: 100%;" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira-gui&theme=tokyonight&layout=compact" style"max-width: 100%;" />
+  <br/>
   <img height="300em" src="https://metrics.lecoq.io/nogueira-gui" alt="Github Metrics" style"max-width: 100%;>
 </a>
                                                                                        
