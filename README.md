@@ -1,6 +1,9 @@
 ### Hi there, I'm Guilherme 👋 full stack developer.
 I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/NextJs
 
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogueira-gui&show_icons=true&theme=radical)
+
+
 
 <!--
 **nogueira-gui/nogueira-gui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
