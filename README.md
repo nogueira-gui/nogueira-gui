@@ -1,7 +1,7 @@
 ### Hi there, I'm Guilherme 👋 full stack developer.
 I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/NextJs
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogueira-gui&show_icons=true&theme=radical)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogueira-gui&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira-gui&layout=compact)](https://github.com/nogueira-gui/github-readme-stats)
 
 
