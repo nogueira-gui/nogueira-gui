@@ -1,10 +1,5 @@
 ### Hi there, I'm Guilherme 👋 software engineer.
 I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/NextJs
-
-<a href="https://github.com/nogueira-gui">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nogueira-gui&show_icons=true&theme=tokyonight" style"max-width: 100%;" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira-gui&theme=tokyonight&layout=compact" style"max-width: 100%;" />
-</a>
                                                                                        
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" />
