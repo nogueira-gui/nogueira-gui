@@ -25,7 +25,7 @@ I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/Ne
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <p align="center">
-  <a align="center" href="https://www.credly.com/badges/26d6938c-23ba-48ff-9ec5-fbd32720fea0/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+  <a align="center" href="https://www.credly.com/badges/26d6938c-23ba-48ff-9ec5-fbd32720fea0/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="25%"></a>
 </p>
 <br/>
 <p align="center">
