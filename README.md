@@ -18,9 +18,9 @@ Let's build the future together! 🌟
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=B52E31)
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
 - 🛢Databases &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 - ⚙️Version Control and Tools &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
