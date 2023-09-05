@@ -1,10 +1,16 @@
-### Hi there, I'm Guilherme 👋 software engineer.
-I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/NextJs
-                                                                                       
+### Hi there, I'm Guilherme, a Software Engineer 👋
+
+🚀 I'm currently diving deep into:
+- Cloud Computing with AWS
+- Backend Development with SpringBoot and NodeJS
+- Frontend Development with Angular, React, and React Native
+- Python for versatile scripting and development tasks
+
+Let's build the future together! 🌟                                                                              
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" />
                                                                                                             
-- 🌐 &nbsp;
+- 🌐Web Development &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -12,11 +18,11 @@ I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/Ne
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=B52E31)
-- 🛢 &nbsp;
+- 🛢Databases &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-- ⚙️ &nbsp;
+- ⚙️Version Control and Tools &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
@@ -35,15 +41,4 @@ I'm currently focused on SpringBoot/Angular/NodeJS/React/ReactJS/React Native/Ne
 </p>
 <!--
 **nogueira-gui/nogueira-gui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
