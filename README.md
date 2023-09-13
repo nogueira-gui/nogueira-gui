@@ -8,7 +8,6 @@
 
 Let's build the future together! 🌟                                                                              
 <h3> 🛠 &nbsp;Tech Stack</h3>
-<img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" />
                                                                                                             
 - 🌐Web Development &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
