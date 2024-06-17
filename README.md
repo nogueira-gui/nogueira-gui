@@ -2,11 +2,11 @@
 
 🚀 I'm currently diving deep into:
 - Cloud Computing with AWS
-- Backend Development with SpringBoot and NodeJS
+- Backend Development with Java SpringBoot
 - Frontend Development with Angular, React, and React Native
 - Python for versatile scripting and development tasks
 
-Let's build the future together! 🌟                                                                              
+Let's build the future! 🌟                                                                              
 <h3> 🛠 &nbsp;Tech Stack</h3>
                                                                                                             
 - 🌐Web Development &nbsp;
