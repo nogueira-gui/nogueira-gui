@@ -3,6 +3,7 @@
 🚀 I'm currently diving deep into:
 - Cloud Computing with AWS
 - Backend Development with Java Spring Boot
+- Generative AI - LLM, RAG, FineTuning, Embedding, Llama, OpenAI, LangChain
 - Site Reliability Engineering (SRE)
 - Web/Mobile Development with React and React Native
 - Python for versatile scripting and development tasks
