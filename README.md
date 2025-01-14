@@ -33,6 +33,7 @@ Let's build the future together! 🌟
 <p align="center">
   <a href="https://www.credly.com/badges/26d6938c-23ba-48ff-9ec5-fbd32720fea0/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="15%"></a>
   <a href="https://brasilopenbadge.com.br/pages/badge/6223e9ed0475eb77ebb691e51b236bdc"><img src="https://brasilopenbadge.com.br/badge/3789.png?nocache=229141882" width="15%"></a>
+  <a href="https://www.credly.com/badges/a6d9a89b-2253-43df-979b-0de6a303fada/linked_in?t=soytej"><img src="https://images.credly.com/images/c7c17474-15b2-4b42-9036-8f8aaaa7e117/image.png" width="15%"></a>
 </p>
 <br/>
 <p align="center">
