@@ -8,7 +8,6 @@
 - Web/Mobile Development with React and React Native
 - Python for versatile scripting and development tasks
 
-Let's build the future together! 🌟
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
