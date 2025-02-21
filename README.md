@@ -18,7 +18,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
-  ![Python](https://img.shields.io/badge/logo-python-green?logo=python)
+  ![Python](https://img.shields.io/badge/logo-python-green?style=flat&logo=python)
 - 🛢 Databases &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
